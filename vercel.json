@@ -1,0 +1,3 @@
+{
+    "buildcommand":"streamlit run app.py"
+}
